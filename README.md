@@ -8,7 +8,6 @@
 #### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
    
-   I obained the data, which is a real survey conducted to inquire data professionals about      their salaries, job roles
    and related info. File format is a .csv file.
    The dataset was obtained here: 
    https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx 
@@ -24,7 +23,9 @@
    a) AVG SALARY<br>
    <d>Separated salary values from ranges to average values. Salaries were
    given by the paricipants as ranges (e.g. 60K- 100K USD).<br>The averages for theses data      points were then calculated so that I could represent average salary values from the      survey.</d>
+   
    <br>b) Removed unecessary columns</br>
+   
    <br>c) Removed uneeded abbreviations (e.g.: 'k' for thousands of USD)</br>
    
 
