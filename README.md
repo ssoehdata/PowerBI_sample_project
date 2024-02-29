@@ -1,13 +1,8 @@
 # PowerBI_sample_project
 ### Notes on the Data Professional Survey Project
 
-![alt text](https://github.com/ssoehdata/IBM_MainframeDevCourse_COBOL/blob/main/COBOL.jpg.jpg) 
-
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/jpg/DataProfSurvey.jpg)
 
-![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/DataProfSurvey.pdf.pdf)
-
-![alt text](DataProfessionalsSurvey/DataProfSurvey.pdf) 
 
 #### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
