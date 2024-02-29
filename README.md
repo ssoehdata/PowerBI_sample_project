@@ -12,7 +12,7 @@
    The dataset was obtained here: 
    https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx 
 
-2) <d>Data cleaning:</d>
+2) <d>Data cleaning</d>
   
    I decided to perform all of the data cleaning steps _within PowerBI_ (i.e. not prior to in    the original .csv file). <br>
    While it can be easier to perform much if not all of initial data cleaning steps outside      of PowerBI, I wanted to use the<br>
