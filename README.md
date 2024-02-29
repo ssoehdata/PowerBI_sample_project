@@ -1,16 +1,12 @@
 # PowerBI_sample_project
-
-
-
-## Notes on the Data Professional Survey Project
-
+### Notes on the Data Professional Survey Project
 
 #### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
    
   I obained the data, which is a real survey conducted to inquire data professionals about their salaries, job roles
   and related info. File format is a .csv file.
-  The dataset obtained here: 
+  The dataset was obtained here: 
   https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx 
 
 2) <d>Data cleaning:</d>
