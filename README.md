@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/ssoehdata/IBM_MainframeDevCourse_COBOL/blob/main/COBOL.jpg.jpg) 
 
-
+![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/jpg/DataProfSurvey.jpg)
 
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/DataProfSurvey.pdf.pdf)
 
