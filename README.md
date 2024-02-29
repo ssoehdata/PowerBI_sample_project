@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/DataProfessionalsSurvey/DataProfSurvey.pdf) 
 
-![embed](https://github.com/ssoehdata/PowerBI_examples/DataProfessionalsSurvey/DataProfSurvey.pdf[/embed]) 
+[embed](https://github.com/ssoehdata/PowerBI_examples/DataProfessionalsSurvey/DataProfSurvey.pdf[/embed]) 
 
 #### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
