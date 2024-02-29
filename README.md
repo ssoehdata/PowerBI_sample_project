@@ -22,10 +22,9 @@
    A short list of some of the data cleaning I performed:
    
       a) AVG SALARY\
-            I Separated salary values from ranges to average values. For example, salaries were
-            given by the paricipants as
-            as ranges e.g. 60K- 100K USD. The averages for theses data points were then calculated so that I could represent
-            average salary values from the survey.
+            I Separated salary values from ranges to average values.Salaries were
+            given by the paricipants as ranges (e.g. 60K- 100K USD)./ The averages for theses data points were
+            then calculated so that I could represent average salary values from the survey.
    
 
 
