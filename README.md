@@ -5,7 +5,6 @@
 
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/DataProfessionalsSurvey/DataProfSurvey.pdf) 
 
-[pdf](DataProfessionalsSurvey/DataProfSurvey.pdf "Data Professional Survey PDF")
 
 
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/DataProfSurvey.pdf)
