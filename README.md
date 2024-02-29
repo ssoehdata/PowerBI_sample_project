@@ -5,7 +5,7 @@
 
 
 
-![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/DataProfSurvey.pdf)
+![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/DataProfSurvey.pdf.pdf)
 
 ![alt text](DataProfessionalsSurvey/DataProfSurvey.pdf) 
 
