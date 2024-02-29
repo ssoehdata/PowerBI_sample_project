@@ -5,7 +5,7 @@
 ## Notes on the Data Professional Survey Project
 
 
-### This is a sample project made in PowerBI with an outline of the steps below:
+#### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
    
   I obained the data, which is a real survey conducted to inquire data professionals about their salaries, job roles
