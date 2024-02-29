@@ -3,7 +3,7 @@
 
 
 # Notes on the Data Professional Survey Project
-### enter info and steps (cleaning etc etc here -- was all doen in powerbi(incl cleaning) etc
+### enter info and steps (cleaning etc etc here -- was all done in PowerBI(incl. cleaning) etc
 
 ### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source and Data Cleaning.
