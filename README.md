@@ -1,5 +1,5 @@
 # PowerBI_sample_project
-### Notes on the Data Professional Survey Project
+#### Notes on the Data Professional Survey Project
 
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/jpg/DataProfSurvey.jpg)
 
