@@ -19,10 +19,10 @@
    While it can be generally easier to perform much if not all of initial data cleaning steps outside of PowerBI,
    I wanted to make use  of the included toolset for this project.
 
-   A short list of some of the data cleaning I performed:
+   Sample list of some of the data cleaning steps:
    
       a) AVG SALARY\
-            I Separated salary values from ranges to average values.Salaries were
+            Separated salary values from ranges to average values. Salaries were
             given by the paricipants as ranges (e.g. 60K- 100K USD)./ The averages for theses data points were
             then calculated so that I could represent average salary values from the survey.
    
