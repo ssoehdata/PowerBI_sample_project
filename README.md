@@ -2,8 +2,8 @@
 
 
 
-# Notes on the Data Professional Survey Project
-### enter info here etc
+## Notes on the Data Professional Survey Project
+
 
 ### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
