@@ -25,6 +25,8 @@
    <d>Separated salary values from ranges to average values. Salaries were
    given by the paricipants as ranges (e.g. 60K- 100K USD).<br>The averages for theses data points were
    then calculated so that I could represent average salary values from the survey.</d>
+   b) Removed unecessary columns
+   c) Removed uneeded abbreviations (e.g.: 'k' for thousands of USD)
    
 
 
