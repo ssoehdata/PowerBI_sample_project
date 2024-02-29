@@ -1,4 +1,4 @@
-# PowerBI_examples
+# PowerBI_sample_project
 
 
 
