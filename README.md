@@ -7,6 +7,8 @@
 
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/DataProfSurvey.pdf)
 
+(DataProfessionalsSurvey/DataProfSurvey.pdf) 
+
 #### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
    
