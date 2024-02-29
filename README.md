@@ -1,7 +1,7 @@
 # PowerBI_sample_project
 #### Notes on the Data Professional Survey Project
 
-###### (*The image below is a .jpg image of the actual project that is also incl. in this repository*)
+###### (*The image below is a .jpg image of the actual project also incl. in this repository*)
 ![alt text](https://github.com/ssoehdata/PowerBI_examples/blob/main/DataProfessionalsSurvey/jpg/DataProfSurvey.jpg)
 
 
