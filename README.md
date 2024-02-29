@@ -3,6 +3,7 @@
 
 ![alt text](https://github.com/ssoehdata/IBM_MainframeDevCourse_COBOL/blob/main/COBOL.jpg.jpg) 
 
+![alt text](https://github.com/ssoehdata/DataProfessionalsSurvey/DataProfSurvey.pdf) 
 
 #### This is a sample project made in PowerBI with an outline of the steps below:
 1) Data Source
